@@ -17,4 +17,8 @@ i  "luego lo borras"
 escribir mensaje : 
 luego de escribir el mensaje darle "esc"
 hola : wq
-git log
+git log (para ver los inserts que hemos echo)
+
+//
+para elimina algun cambio dentro del programa visual
+git checkout -- index.html
