@@ -1,0 +1,11 @@
+cd D: (ingresar disco D)
+ls (monstrar contenido de carpeta)
+cd XAMPP
+cd htdocs
+ls
+cd 31
+git init (crear git repository)
+git status (estan workind direct lo que quiero)
+"agrego los archivos al stating area"
+git add app.js (mover a stating area)
+git add . (para pasar todos los archivos)
