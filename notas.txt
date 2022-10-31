@@ -7,5 +7,11 @@ cd 31
 git init (crear git repository)
 git status (estan workind direct lo que quiero)
 "agrego los archivos al stating area"
-git add app.js (mover a stating area)
-git add . (para pasar todos los archivos)
+git add app.js (mover a stating area) uno por uno
+git add . (para pasar todos los archivos)  todos los archivos
+
+git commit
+
+escribir mensaje : 
+hola : wq
+git log
